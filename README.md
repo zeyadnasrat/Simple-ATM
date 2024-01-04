@@ -1,1 +1,1 @@
-# project2
+# Simple ATM project including several options 
